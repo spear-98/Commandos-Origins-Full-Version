@@ -253,3 +253,6 @@ This repository serves as the official landing page for Commandos: Origins. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Commandos: Origins today!**
+
+---
+**Last updated:** 2026-09-12 07:01:54 UTC

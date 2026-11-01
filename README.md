@@ -255,4 +255,4 @@ This repository serves as the official landing page for Commandos: Origins. The 
 **Get the most recent version of Commandos: Origins today!**
 
 ---
-**Last updated:** 2026-10-31 23:14:40 UTC
+**Last updated:** 2026-11-01 05:26:08 UTC
